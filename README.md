@@ -1,3 +1,7 @@
+# Data Source
+
+https://tianchi.aliyun.com/dataset/dataDetail?dataId=113649
+
 # Data Format
 
 ### user_item_behavior_history.csv
